@@ -1,0 +1,411 @@
+station_1,station_1_name,station_2,station_2_name,distance
+11,Baker Street,163,Marylebone,416.5860504
+11,Baker Street,212,Regent's Park,734.1736362
+49,Charing Cross,87,Embankment,179.5034177
+49,Charing Cross,197,Picadilly Circus,689.2898454
+82,Edgware Road (B),163,Marylebone,441.2181041
+82,Edgware Road (B),193,Paddington,727.2997521
+84,Elephant & Castle,148,Lambeth North,954.961552
+87,Embankment,279,Waterloo,698.0514602
+113,Harlesden,246,Stonebridge Park,1537.397099
+113,Harlesden,298,Willesden Junction,783.2255768
+114,Harrow & Wealdston,140,Kenton,1785.108173
+137,Kensal Green,206,Queen's Park,1467.565419
+137,Kensal Green,298,Willesden Junction,1600.973735
+140,Kenton,237,South Kenton,1397.280904
+143,Kilburn Park,159,Maida Vale,818.4469919
+143,Kilburn Park,206,Queen's Park,757.6035738
+148,Lambeth North,279,Waterloo,537.0874553
+159,Maida Vale,278,Warwick Avenue,735.1021661
+185,North Wembley,237,South Kenton,947.86026
+185,North Wembley,281,Wembley Central,1237.066713
+192,Oxford Circus,197,Picadilly Circus,769.1130905
+192,Oxford Circus,212,Regent's Park,999.3665176
+193,Paddington,278,Warwick Avenue,1058.532192
+246,Stonebridge Park,281,Wembley Central,1671.746263
+13,Bank,156,Liverpool Street,664.7679077
+13,Bank,250,St. Paul's,621.0255001
+16,Barkingside,91,Fairlop,1169.998667
+16,Barkingside,173,Newbury Park,1115.698853
+24,Bethnal Green,156,Liverpool Street,2159.701938
+24,Bethnal Green,164,Mile End,1524.01927
+28,Bond Street,162,Marble Arch,642.1376482
+28,Bond Street,192,Oxford Circus,555.5807425
+37,Buckhurst Hill,158,Loughton,1732.489215
+37,Buckhurst Hill,301,Woodford,2359.277768
+48,Chancery Lane,126,Holborn,629.7834868
+48,Chancery Lane,250,St. Paul's,1051.621998
+51,Chigwell,103,Grange Hill,1266.788748
+51,Chigwell,215,Roding Valley,2189.695703
+68,Debden,158,Loughton,1996.400835
+68,Debden,256,Theydon Bois,3212.205693
+72,Ealing Broadway,286,West Acton,1477.062806
+76,East Acton,181,North Acton,1148.131889
+76,East Acton,296,White City,1716.52575
+88,Epping,256,Theydon Bois,2555.179796
+91,Fairlop,109,Hainault,792.2941639
+98,Gants Hill,173,Newbury Park,1639.128638
+98,Gants Hill,211,Redbridge,1449.049787
+103,Grange Hill,109,Hainault,1136.963417
+105,Greenford,177,Northolt,1735.967934
+105,Greenford,196,Perivale,1678.534737
+112,Hanger Lane,181,North Acton,2441.392212
+112,Hanger Lane,196,Perivale,2193.541197
+126,Holborn,259,Tottenham Court Road,770.0999143
+127,Holland Park,186,Notting Hill Gate,679.4005317
+127,Holland Park,226,Shepherd's Bush (C),938.953586
+149,Lancaster Gate,162,Marble Arch,1195.219467
+149,Lancaster Gate,208,Queensway,850.5660127
+153,Leyton,154,Leytonstone,1607.463739
+153,Leyton,247,Stratford,1670.624943
+154,Leytonstone,230,Snaresbrook,1668.633647
+154,Leytonstone,275,Wanstead,1751.485427
+164,Mile End,247,Stratford,2738.907345
+177,Northolt,239,South Ruislip,2296.568495
+181,North Acton,286,West Acton,1602.307554
+186,Notting Hill Gate,208,Queensway,641.3489058
+192,Oxford Circus,259,Tottenham Court Road,747.7357561
+211,Redbridge,275,Wanstead,1158.490608
+215,Roding Valley,301,Woodford,1312.856693
+221,Ruislip Gardens,239,South Ruislip,897.5135235
+221,Ruislip Gardens,294,West Ruislip,2141.542689
+226,Shepherd's Bush (C),296,White City,898.986684
+230,Snaresbrook,241,South Woodford,1279.816325
+241,South Woodford,301,Woodford,1762.631239
+2,Aldgate,156,Liverpool Street,611.9207912
+2,Aldgate,263,Tower Hill,506.4516248
+11,Baker Street,83,Edgware Road (C),931.2115774
+11,Baker Street,104,Great Portland Street,925.826411
+14,Barbican,92,Farringdon,513.7514262
+14,Barbican,167,Moorgate,675.8724451
+18,Bayswater,186,Notting Hill Gate,680.7914757
+18,Bayswater,193,Paddington,935.8326023
+25,Blackfriars,161,Mansion House,632.1331138
+25,Blackfriars,255,Temple,770.1894229
+44,Cannon Street,161,Mansion House,269.2345819
+44,Cannon Street,166,Monument,290.022344
+83,Edgware Road (C),193,Paddington,665.5494256
+87,Embankment,255,Temple,702.5372371
+87,Embankment,285,Westminster,743.8728964
+90,Euston Square,104,Great Portland Street,606.7802471
+90,Euston Square,145,King's Cross St. Pancras,995.1423672
+92,Farringdon,145,King's Cross St. Pancras,1735.85691
+99,Gloucester Road,122,High Street Kensington,975.4249839
+99,Gloucester Road,236,South Kensington,633.552488
+122,High Street Kensington,186,Notting Hill Gate,989.633671
+156,Liverpool Street,167,Moorgate,446.2670918
+166,Monument,263,Tower Hill,682.5499392
+229,Sloane Square,236,South Kensington,1216.294206
+229,Sloane Square,273,Victoria,937.8993871
+248,St. James's Park,273,Victoria,842.0365732
+248,St. James's Park,285,Westminster,589.9628407
+3,Aldgate East,263,Tower Hill,682.125031
+3,Aldgate East,295,Whitechapel,907.8777767
+15,Barking,78,East Ham,2026.031984
+15,Barking,269,Upney,1420.656899
+17,Barons Court,110,Hammersmith,850.9027635
+17,Barons Court,293,West Kensington,514.4469763
+18,Bayswater,186,Notting Hill Gate,680.7914757
+18,Bayswater,193,Paddington,935.8326023
+21,Becontree,67,Dagenham Heathway,1389.384758
+21,Becontree,269,Upney,1787.398583
+25,Blackfriars,161,Mansion House,632.1331138
+25,Blackfriars,255,Temple,770.1894229
+33,Bow Road,36,Bromley-By-Bow,918.5472805
+306,London City Airport,307,King George V,983.5206702
+33,Bow Road,164,Mile End,630.4817217
+36,Bromley-By-Bow,289,West Ham,1289.682108
+44,Cannon Street,161,Mansion House,269.2345819
+44,Cannon Street,166,Monument,290.022344
+52,Chiswick Park,1,Acton Town,1249.750599
+52,Chiswick Park,265,Turnham Green,911.472439
+66,Dagenham East,67,Dagenham Heathway,1322.404416
+66,Dagenham East,85,Elm Park,2310.209344
+72,Ealing Broadway,73,Ealing Common,1095.573545
+73,Ealing Common,1,Acton Town,987.887901
+74,Earl's Court,99,Gloucester Road,1038.049385
+74,Earl's Court,122,High Street Kensington,1044.796723
+74,Earl's Court,138,Kensington (Olympia),1159.498246
+74,Earl's Court,287,West Brompton,551.8078145
+74,Earl's Court,293,West Kensington,655.1386417
+78,East Ham,270,Upton Park,1301.029805
+80,East Putney,205,Putney Bridge,1079.962726
+80,East Putney,231,Southfields,1502.999687
+83,Edgware Road (C),193,Paddington,665.5494256
+85,Elm Park,129,Hornchurch,1513.397621
+87,Embankment,255,Temple,702.5372371
+87,Embankment,285,Westminster,743.8728964
+96,Fulham Broadway,195,Parsons Green,708.2071183
+96,Fulham Broadway,287,West Brompton,756.8381299
+99,Gloucester Road,236,South Kensington,633.552488
+108,Gunnersbury,141,Kew Gardens,1745.630318
+108,Gunnersbury,265,Turnham Green,1492.380945
+110,Hammersmith,209,Ravenscourt Park,753.0223907
+122,High Street Kensington,186,Notting Hill Gate,989.633671
+129,Hornchurch,268,Upminster Bridge,1202.054653
+141,Kew Gardens,213,Richmond,1898.97016
+164,Mile End,244,Stepney Green,1007.174825
+166,Monument,263,Tower Hill,682.5499392
+195,Parsons Green,205,Putney Bridge,957.9753177
+200,Plaistow,270,Upton Park,1263.416463
+200,Plaistow,289,West Ham,855.3786689
+209,Ravenscourt Park,242,Stamford Brook,700.1675565
+229,Sloane Square,236,South Kensington,1216.294206
+229,Sloane Square,273,Victoria,937.8993871
+231,Southfields,300,Wimbledon Park,1337.851565
+242,Stamford Brook,265,Turnham Green,611.2440043
+244,Stepney Green,295,Whitechapel,1030.369169
+248,St. James's Park,273,Victoria,842.0365732
+248,St. James's Park,285,Westminster,589.9628407
+267,Upminster,268,Upminster Bridge,1161.583961
+299,Wimbledon,300,Wimbledon Park,1520.060584
+41,Canada Water,216,Rotherhithe,350.0780645
+41,Canada Water,253,Surrey Quays,570.0723509
+174,New Cross,253,Surrey Quays,2123.942335
+175,New Cross Gate,253,Surrey Quays,2028.050879
+216,Rotherhithe,276,Wapping,432.7877074
+225,Shadwell,276,Wapping,823.4261857
+225,Shadwell,295,Whitechapel,929.6297085
+228,Shoreditch,295,Whitechapel,760.7795234
+3,Aldgate East,156,Liverpool Street,724.3413716
+3,Aldgate East,295,Whitechapel,907.8777767
+11,Baker Street,83,Edgware Road (C),931.2115774
+11,Baker Street,104,Great Portland Street,925.826411
+14,Barbican,92,Farringdon,513.7514262
+14,Barbican,167,Moorgate,675.8724451
+15,Barking,78,East Ham,2026.031984
+33,Bow Road,36,Bromley-By-Bow,918.5472805
+305,Pontoon Dock,306,London City Airport,1186.895495
+33,Bow Road,164,Mile End,630.4817217
+36,Bromley-By-Bow,289,West Ham,1289.682108
+78,East Ham,270,Upton Park,1301.029805
+83,Edgware Road (C),193,Paddington,665.5494256
+90,Euston Square,104,Great Portland Street,606.7802471
+90,Euston Square,145,King's Cross St. Pancras,995.1423672
+92,Farringdon,145,King's Cross St. Pancras,1735.85691
+101,Goldhawk Road,110,Hammersmith,919.0550221
+101,Goldhawk Road,227,Shepherd's Bush (H),445.2482388
+147,Ladbroke Grove,150,Latimer Road,581.713585
+147,Ladbroke Grove,283,Westbourne Park,789.1556174
+150,Latimer Road,227,Shepherd's Bush (H),1108.610429
+156,Liverpool Street,167,Moorgate,446.2670918
+164,Mile End,244,Stepney Green,1007.174825
+193,Paddington,218,Royal Oak,955.6630276
+200,Plaistow,270,Upton Park,1263.416463
+200,Plaistow,289,West Ham,855.3786689
+218,Royal Oak,283,Westbourne Park,936.1037013
+244,Stepney Green,295,Whitechapel,1030.369169
+11,Baker Street,28,Bond Street,1076.607648
+11,Baker Street,249,St. John's Wood,1785.442777
+23,Bermondsey,41,Canada Water,938.0809567
+23,Bermondsey,157,London Bridge,1773.187096
+28,Bond Street,107,Green Park,951.9620757
+41,Canada Water,42,Canary Wharf,2174.547912
+42,Canary Wharf,183,North Greenwich,1796.46196
+43,Canning Town,183,North Greenwich,1607.823649
+43,Canning Town,289,West Ham,1568.034312
+45,Canons Park,207,Queensbury,1626.231455
+45,Canons Park,243,Stanmore,1407.298034
+71,Dollis Hill,172,Neasden,840.9820067
+71,Dollis Hill,297,Willesden Green,1233.05514
+94,Finchley Road,254,Swiss Cottage,633.5470454
+94,Finchley Road,290,West Hampstead,715.2798037
+107,Green Park,285,Westminster,1364.488894
+142,Kilburn,290,West Hampstead,978.3569378
+142,Kilburn,297,Willesden Green,1188.561612
+144,Kingsbury,207,Queensbury,1187.853234
+144,Kingsbury,282,Wembley Park,2348.39913
+157,London Bridge,233,Southwark,1312.160108
+172,Neasden,282,Wembley Park,2274.08243
+233,Southwark,279,Waterloo,633.4214431
+247,Stratford,289,West Ham,1588.171821
+249,St. John's Wood,254,Swiss Cottage,945.799699
+279,Waterloo,285,Westminster,823.246267
+2,Aldgate,156,Liverpool Street,611.9207912
+6,Amersham,46,Chalfont & Latimer,3244.890006
+11,Baker Street,104,Great Portland Street,925.826411
+11,Baker Street,94,Finchley Road,3175.274183
+14,Barbican,92,Farringdon,513.7514262
+14,Barbican,167,Moorgate,675.8724451
+46,Chalfont & Latimer,50,Chesham,5401.80674
+46,Chalfont & Latimer,53,Chorleywood,3319.569379
+53,Chorleywood,214,Rickmansworth,3477.544282
+62,Croxley,168,Moor Park,2059.162684
+62,Croxley,280,Watford,1989.598217
+75,Eastcote,210,Rayners Lane,1779.737731
+75,Eastcote,222,Ruislip Manor,1135.557554
+90,Euston Square,104,Great Portland Street,606.7802471
+90,Euston Square,145,King's Cross St. Pancras,995.1423672
+92,Farringdon,145,King's Cross St. Pancras,1735.85691
+304,West Silvertown,305,Pontoon Dock,649.2040485
+94,Finchley Road,282,Wembley Park,7115.148277
+115,Harrow-on-the-Hill,178,Northwick Park,1265.602797
+115,Harrow-on-the-Hill,184,North Harrow,1896.230506
+115,Harrow-on-the-Hill,291,West Harrow,1157.854276
+125,Hillingdon,134,Ickenham,1051.086896
+125,Hillingdon,271,Uxbridge,2158.567464
+134,Ickenham,220,Ruislip,1794.688161
+156,Liverpool Street,167,Moorgate,446.2670918
+168,Moor Park,179,Northwood,2110.100745
+168,Moor Park,214,Rickmansworth,3110.32453
+178,Northwick Park,202,Preston Road,1746.27181
+179,Northwood,180,Northwood Hills,1571.166604
+180,Northwood Hills,199,Pinner,2169.832367
+184,North Harrow,199,Pinner,1526.845938
+202,Preston Road,282,Wembley Park,1452.510065
+210,Rayners Lane,291,West Harrow,1338.932269
+220,Ruislip,222,Ruislip Manor,638.7539252
+7,Angel,145,King's Cross St. Pancras,1258.741922
+7,Angel,188,Old Street,1441.910198
+8,Archway,124,Highgate,1559.902413
+8,Archway,264,Tufnell Park,967.8464849
+12,Balham,56,Clapham South,1112.938528
+12,Balham,257,Tooting Bec,929.6060931
+13,Bank,157,London Bridge,914.0416639
+13,Bank,167,Moorgate,589.6681309
+22,Belsize Park,47,Chalk Farm,1005.867998
+22,Belsize Park,111,Hampstead,1192.966759
+29,Borough,84,Elephant & Castle,857.0882761
+29,Borough,157,London Bridge,713.4270493
+34,Brent Cross,100,Golders Green,1430.36417
+34,Brent Cross,119,Hendon Central,1103.757618
+38,Burnt Oak,58,Colindale,1259.871641
+38,Burnt Oak,81,Edgware,1428.603467
+40,Camden Town,47,Chalk Farm,949.1968753
+40,Camden Town,89,Euston,1370.831288
+40,Camden Town,139,Kentish Town,1290.262043
+40,Camden Town,170,Mornington Crescent,618.6163064
+49,Charing Cross,87,Embankment,179.5034177
+49,Charing Cross,151,Leicester Square,436.4845942
+54,Clapham Common,55,Clapham North,684.0331915
+54,Clapham Common,56,Clapham South,1212.542072
+55,Clapham North,245,Stockwell,952.7428763
+58,Colindale,119,Hendon Central,2191.223677
+59,Colliers Wood,240,South Wimbledon,1022.658421
+59,Colliers Wood,258,Tooting Broadway,1257.689248
+77,East Finchley,93,Finchley Central,2485.199152
+77,East Finchley,124,Highgate,1713.436256
+84,Elephant & Castle,136,Kennington,749.2151811
+87,Embankment,279,Waterloo,698.0514602
+89,Euston,145,King's Cross St. Pancras,745.4333128
+89,Euston,170,Mornington Crescent,752.3355618
+89,Euston,277,Warren Street,507.9665068
+93,Finchley Central,165,Mill Hill East,1417.77876
+93,Finchley Central,288,West Finchley,983.8772791
+100,Golders Green,111,Hampstead,2063.692012
+102,Goodge Street,259,Tottenham Court Road,513.822611
+102,Goodge Street,277,Warren Street,533.2004201
+121,High Barnet,261,Totteridge & Whetstone,2471.525025
+136,Kennington,191,Oval,899.4787883
+136,Kennington,279,Waterloo,1802.922342
+139,Kentish Town,264,Tufnell Park,695.2285469
+151,Leicester Square,259,Tottenham Court Road,612.5677132
+167,Moorgate,188,Old Street,861.4270335
+169,Morden,240,South Wimbledon,1482.377587
+191,Oval,245,Stockwell,1274.149742
+257,Tooting Bec,258,Tooting Broadway,1113.85657
+261,Totteridge & Whetstone,302,Woodside Park,1440.630672
+288,West Finchley,302,Woodside Park,953.1131593
+1,Acton Town,73,Ealing Common,987.887901
+1,Acton Town,234,South Ealing,1891.239091
+1,Acton Town,265,Turnham Green,1960.868291
+5,Alperton,194,Park Royal,1869.505568
+5,Alperton,252,Sudbury Town,1566.671018
+9,Arnos Grove,31,Bounds Green,1200.92862
+9,Arnos Grove,232,Southgate,1793.039229
+10,Arsenal,128,Holloway Road,837.8340466
+10,Arsenal,95,Finsbury Park,624.4382151
+17,Barons Court,74,Earl's Court,1164.949048
+17,Barons Court,110,Hammersmith,850.9027635
+30,Boston Manor,176,Northfields,866.4701677
+30,Boston Manor,190,Osterley,2469.925251
+31,Bounds Green,303,Wood Green,1471.080746
+39,Caledonian Road,128,Holloway Road,633.6791697
+39,Caledonian Road,145,King's Cross St. Pancras,1955.784929
+57,Cockfosters,187,Oakwood,1313.73001
+60,Covent Garden,126,Holborn,582.8905391
+60,Covent Garden,151,Leicester Square,318.2470542
+73,Ealing Common,182,North Ealing,824.0412537
+74,Earl's Court,99,Gloucester Road,1038.049385
+75,Eastcote,210,Rayners Lane,1779.737731
+75,Eastcote,222,Ruislip Manor,1135.557554
+99,Gloucester Road,236,South Kensington,633.552488
+107,Green Park,133,Hyde Park Corner,818.8765294
+107,Green Park,197,Picadilly Circus,689.5368832
+110,Hammersmith,265,Turnham Green,2062.45644
+116,Hatton Cross,117,"Heathrow Terminals 1, 2 & 3",2121.042143
+116,Hatton Cross,118,Heathrow Terminal 4,1902.224537
+116,Hatton Cross,132,Hounslow West,2684.129891
+117,"Heathrow Terminals 1, 2 & 3",118,Heathrow Terminal 4,1322.224508
+125,Hillingdon,134,Ickenham,1051.086896
+125,Hillingdon,271,Uxbridge,2158.567464
+126,Holborn,223,Russell Square,693.8713539
+130,Hounslow Central,131,Hounslow East,736.2064342
+130,Hounslow Central,132,Hounslow West,1340.683189
+131,Hounslow East,190,Osterley,936.669487
+133,Hyde Park Corner,146,Knightsbridge,571.3173106
+134,Ickenham,220,Ruislip,1794.688161
+145,King's Cross St. Pancras,223,Russell Square,868.8135169
+146,Knightsbridge,236,South Kensington,1226.953985
+151,Leicester Square,197,Picadilly Circus,455.1862405
+160,Manor House,266,Turnpike Lane,2190.595099
+176,Northfields,234,South Ealing,517.6510841
+182,North Ealing,194,Park Royal,1104.121574
+187,Oakwood,232,Southgate,1733.488693
+210,Rayners Lane,235,South Harrow,1791.052709
+220,Ruislip,222,Ruislip Manor,638.7539252
+235,South Harrow,251,Sudbury Hill,1374.528042
+251,Sudbury Hill,252,Sudbury Town,1611.620293
+266,Turnpike Lane,303,Wood Green,923.3858943
+26,Blackhorse Road,260,Tottenham Hale,1238.043408
+26,Blackhorse Road,274,Walthamstow Central,1592.830291
+35,Brixton,245,Stockwell,1220.514648
+89,Euston,145,King's Cross St. Pancras,745.4333128
+89,Euston,277,Warren Street,507.9665068
+95,Finsbury Park,123,Highbury & Islington,2032.321857
+95,Finsbury Park,224,Seven Sisters,2968.213353
+107,Green Park,192,Oxford Circus,927.8415421
+107,Green Park,273,Victoria,1142.473529
+123,Highbury & Islington,145,King's Cross St. Pancras,2178.796828
+192,Oxford Circus,277,Warren Street,1100.446145
+198,Pimlico,272,Vauxhall,665.8033511
+198,Pimlico,273,Victoria,1121.427861
+224,Seven Sisters,260,Tottenham Hale,1264.830142
+245,Stockwell,272,Vauxhall,1543.644784
+13,Bank,279,Waterloo,2085.27535
+4,All Saints,70,Devons Road,1324.661595
+4,All Saints,201,Poplar,447.8032041
+13,Bank,225,Shadwell,2270.131724
+19,Beckton,97,Gallions Reach,919.7836977
+20,Beckton Park,65,Cyprus,625.2430974
+20,Beckton Park,217,Royal Albert,591.0770846
+27,Blackwall,79,East India,349.0988395
+27,Blackwall,201,Poplar,743.2198629
+32,Bow Church,70,Devons Road,607.0135735
+32,Bow Church,204,Pudding Mill Lane,914.2257093
+42,Canary Wharf,120,Heron Quays,204.5516154
+42,Canary Wharf,292,West India Quay,215.4558674
+43,Canning Town,79,East India,933.9425148
+43,Canning Town,219,Royal Victoria,927.6539666
+61,Crossharbour & London Arena,171,Mudchute,611.9567568
+61,Crossharbour & London Arena,238,South Quay,644.9678253
+63,Custom House,203,Prince Regent,417.1512772
+63,Custom House,219,Royal Victoria,661.0503577
+64,Cutty Sark,106,Greenwich,630.4672559
+64,Cutty Sark,135,Island Gardens,490.763739
+65,Cyprus,97,Gallions Reach,541.6505787
+69,Deptford Bridge,86,Elverson Road,598.8317719
+69,Deptford Bridge,106,Greenwich,651.7387961
+86,Elverson Road,152,Lewisham,458.1139919
+120,Heron Quays,238,South Quay,333.8406913
+135,Island Gardens,171,Mudchute,460.8199951
+155,Limehouse,225,Shadwell,1140.480702
+155,Limehouse,284,Westferry,954.3480346
+201,Poplar,284,Westferry,676.3806625
+201,Poplar,292,West India Quay,222.3719683
+203,Prince Regent,217,Royal Albert,901.1893377
+204,Pudding Mill Lane,247,Stratford,1054.796463
+225,Shadwell,262,Tower Gateway,1276.332411
+284,Westferry,292,West India Quay,524.907117
+95,Finsbury Park,160,Manor House,1075.632234
+43,Canning Town,304,West Silvertown,1667.929087
